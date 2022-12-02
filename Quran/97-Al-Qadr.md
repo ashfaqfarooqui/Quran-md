@@ -7,68 +7,70 @@ Revelation: Meccan
 Ayahs: 5
 ---
 
+▶ [[96-Al-Alaq]] | [[98-Al-Bayyina]] ◀
+
 # 1
 
-Innaa anzalnaahu fee lailatil qadr ^qTrans960
+Innaa anzalnaahu fee lailatil qadr ^qTrans971
 
 
-BEHOLD, from on high have We bestowed this [divine writ] on Night of Destiny. ^qAsad960
+BEHOLD, from on high have We bestowed this [divine writ] on Night of Destiny. ^qAsad971
 
 
-Lo! We revealed it on the Night of Predestination. ^qPickthall960
+Lo! We revealed it on the Night of Predestination. ^qPickthall971
 
 
-Behold, We sent it down on the Night of Power; ^qArberry960
+Behold, We sent it down on the Night of Power; ^qArberry971
 
 # 2
 
-Wa maa adraaka ma lailatul qadr ^qTrans961
+Wa maa adraaka ma lailatul qadr ^qTrans972
 
 
-And what could make thee conceive what it is, that Night of Destiny? ^qAsad961
+And what could make thee conceive what it is, that Night of Destiny? ^qAsad972
 
 
-Ah, what will convey unto thee what the Night of Power is! ^qPickthall961
+Ah, what will convey unto thee what the Night of Power is! ^qPickthall972
 
 
-And what shall teach thee what is the Night of Power? ^qArberry961
+And what shall teach thee what is the Night of Power? ^qArberry972
 
 # 3
 
-Lailatul qadri khairum min alfee shahr ^qTrans962
+Lailatul qadri khairum min alfee shahr ^qTrans973
 
 
-The Night of Destiny is better than a thousand months: ^qAsad962
+The Night of Destiny is better than a thousand months: ^qAsad973
 
 
-The Night of Power is better than a thousand months. ^qPickthall962
+The Night of Power is better than a thousand months. ^qPickthall973
 
 
-The Night of Power is better than a thousand months; ^qArberry962
+The Night of Power is better than a thousand months; ^qArberry973
 
 # 4
 
-Tanaz zalul malaa-ikatu war roohu feeha bi izni-rab bihim min kulli amr ^qTrans963
+Tanaz zalul malaa-ikatu war roohu feeha bi izni-rab bihim min kulli amr ^qTrans974
 
 
-in hosts descend in it the angels, bearing divine inspiration by their Sustainer's leave; from all [evil] that may happen ^qAsad963
+in hosts descend in it the angels, bearing divine inspiration by their Sustainer's leave; from all [evil] that may happen ^qAsad974
 
 
-The angels and the Spirit descend therein, by the permission of their Lord, with all decrees. ^qPickthall963
+The angels and the Spirit descend therein, by the permission of their Lord, with all decrees. ^qPickthall974
 
 
-in it the angels and the Spirit descend, by the leave of their Lord, upon every command. ^qArberry963
+in it the angels and the Spirit descend, by the leave of their Lord, upon every command. ^qArberry974
 
 # 5
 
-Salaamun hiya hattaa mat la'il fajr ^qTrans964
+Salaamun hiya hattaa mat la'il fajr ^qTrans975
 
 
-does it make secure, until the rise of dawn. ^qAsad964
+does it make secure, until the rise of dawn. ^qAsad975
 
 
-(The night is) Peace until the rising of the dawn. ^qPickthall964
+(The night is) Peace until the rising of the dawn. ^qPickthall975
 
 
-Peace it is, till the rising of dawn. ^qArberry964
+Peace it is, till the rising of dawn. ^qArberry975
 

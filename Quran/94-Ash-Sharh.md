@@ -7,107 +7,109 @@ Revelation: Meccan
 Ayahs: 8
 ---
 
+▶ [[93-Ad-Dhuhaa]] | [[95-At-Tin]] ◀
+
 # 1
 
-Alam nashrah laka sadrak ^qTrans930
+Alam nashrah laka sadrak ^qTrans941
 
 
-HAVE WE NOT opened up thy heart, ^qAsad930
+HAVE WE NOT opened up thy heart, ^qAsad941
 
 
-Have We not caused thy bosom to dilate, ^qPickthall930
+Have We not caused thy bosom to dilate, ^qPickthall941
 
 
-Did We not expand thy breast for thee ^qArberry930
+Did We not expand thy breast for thee ^qArberry941
 
 # 2
 
-Wa wa d'ana 'anka wizrak ^qTrans931
+Wa wa d'ana 'anka wizrak ^qTrans942
 
 
-and lifted from thee the burden ^qAsad931
+and lifted from thee the burden ^qAsad942
 
 
-And eased thee of the burden ^qPickthall931
+And eased thee of the burden ^qPickthall942
 
 
-and lift from thee thy burden, ^qArberry931
+and lift from thee thy burden, ^qArberry942
 
 # 3
 
-Allazee anqada zahrak ^qTrans932
+Allazee anqada zahrak ^qTrans943
 
 
-that had weighed so heavily on thy back? ^qAsad932
+that had weighed so heavily on thy back? ^qAsad943
 
 
-Which weighed down thy back; ^qPickthall932
+Which weighed down thy back; ^qPickthall943
 
 
-the burden that weighed down thy back? ^qArberry932
+the burden that weighed down thy back? ^qArberry943
 
 # 4
 
-Wa raf 'ana laka zikrak ^qTrans933
+Wa raf 'ana laka zikrak ^qTrans944
 
 
-And [have We not] raised thee high in dignity? ^qAsad933
+And [have We not] raised thee high in dignity? ^qAsad944
 
 
-And exalted thy fame? ^qPickthall933
+And exalted thy fame? ^qPickthall944
 
 
-Did We not exalt thy fame? ^qArberry933
+Did We not exalt thy fame? ^qArberry944
 
 # 5
 
-Fa inna ma'al usri yusra ^qTrans934
+Fa inna ma'al usri yusra ^qTrans945
 
 
-And, behold, with every hardship comes ease: ^qAsad934
+And, behold, with every hardship comes ease: ^qAsad945
 
 
-But lo! with hardship goeth ease, ^qPickthall934
+But lo! with hardship goeth ease, ^qPickthall945
 
 
-So truly with hardship comes ease, ^qArberry934
+So truly with hardship comes ease, ^qArberry945
 
 # 6
 
-Inna ma'al 'usri yusra ^qTrans935
+Inna ma'al 'usri yusra ^qTrans946
 
 
-verily, with every hardship comes ease! ^qAsad935
+verily, with every hardship comes ease! ^qAsad946
 
 
-Lo! with hardship goeth ease; ^qPickthall935
+Lo! with hardship goeth ease; ^qPickthall946
 
 
-truly with hardship comes ease.' ^qArberry935
+truly with hardship comes ease.' ^qArberry946
 
 # 7
 
-Fa iza faragh ta fansab ^qTrans936
+Fa iza faragh ta fansab ^qTrans947
 
 
-Hence, when thou art freed [from distress], remain steadfast, ^qAsad936
+Hence, when thou art freed [from distress], remain steadfast, ^qAsad947
 
 
-So when thou art relieved, still toil ^qPickthall936
+So when thou art relieved, still toil ^qPickthall947
 
 
-So when thou art empty, labour, ^qArberry936
+So when thou art empty, labour, ^qArberry947
 
 # 8
 
-Wa ilaa rabbika far ghab ^qTrans937
+Wa ilaa rabbika far ghab ^qTrans948
 
 
-and unto thy Sustainer turn with love. ^qAsad937
+and unto thy Sustainer turn with love. ^qAsad948
 
 
-And strive to please thy Lord. ^qPickthall937
+And strive to please thy Lord. ^qPickthall948
 
 
-and let thy Lord be thy Quest. ^qArberry937
+and let thy Lord be thy Quest. ^qArberry948
 
