@@ -5,6 +5,7 @@ aliases:
 Name: The Announcement
 Revelation: Meccan
 Ayahs: 40
+tag:  Quran/An-Naba
 ---
 
 ▶ [[77-Al-Mursalaat]] | [[79-An-Naazi'aat]] ◀

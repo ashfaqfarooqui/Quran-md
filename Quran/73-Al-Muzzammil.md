@@ -5,6 +5,7 @@ aliases:
 Name: The Enshrouded One
 Revelation: Meccan
 Ayahs: 20
+tag:  Quran/Al-Muzzammil
 ---
 
 ▶ [[72-Al-Jinn]] | [[74-Al-Muddaththir]] ◀

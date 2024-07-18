@@ -5,6 +5,7 @@ aliases:
 Name: The Clans
 Revelation: Medinan
 Ayahs: 73
+tag:  Quran/Al-Ahzaab
 ---
 
 ▶ [[32-As-Sajda]] | [[34-Saba]] ◀

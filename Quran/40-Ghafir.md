@@ -5,6 +5,7 @@ aliases:
 Name: The Forgiver
 Revelation: Meccan
 Ayahs: 85
+tag:  Quran/Ghafir
 ---
 
 ▶ [[39-Az-Zumar]] | [[41-Fussilat]] ◀

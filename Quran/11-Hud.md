@@ -5,6 +5,7 @@ aliases:
 Name: Hud
 Revelation: Meccan
 Ayahs: 123
+tag:  Quran/Hud
 ---
 
 ▶ [[10-Yunus]] | [[12-Yusuf]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: Divine Support
 Revelation: Medinan
 Ayahs: 3
+tag:  Quran/An-Nasr
 ---
 
 ▶ [[109-Al-Kaafiroon]] | [[111-Al-Masad]] ◀

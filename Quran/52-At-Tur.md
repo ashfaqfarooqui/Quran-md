@@ -5,6 +5,7 @@ aliases:
 Name: The Mount
 Revelation: Meccan
 Ayahs: 49
+tag:  Quran/At-Tur
 ---
 
 ▶ [[51-Adh-Dhaariyat]] | [[53-An-Najm]] ◀

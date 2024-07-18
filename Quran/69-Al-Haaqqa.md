@@ -5,6 +5,7 @@ aliases:
 Name: The Reality
 Revelation: Meccan
 Ayahs: 52
+tag:  Quran/Al-Haaqqa
 ---
 
 ▶ [[68-Al-Qalam]] | [[70-Al-Ma'aarij]] ◀

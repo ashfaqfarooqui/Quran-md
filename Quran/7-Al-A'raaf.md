@@ -5,6 +5,7 @@ aliases:
 Name: The Heights
 Revelation: Meccan
 Ayahs: 206
+tag:  Quran/Al-A'raaf
 ---
 
 ▶ [[6-Al-An'aam]] | [[8-Al-Anfaal]] ◀
@@ -14,7 +15,7 @@ Ayahs: 206
 Alif-Laaam-Meeem-Saaad ^qTrans71
 
 
-Alif. Lam. Mim. ^qAsad71
+Alif. Lam. Mim. Sad. ^qAsad71
 
 
 Alif. Lam. Mim. Sad. ^qPickthall71

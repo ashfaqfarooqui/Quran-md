@@ -5,6 +5,7 @@ aliases:
 Name: The Ascending Stairways
 Revelation: Meccan
 Ayahs: 44
+tag:  Quran/Al-Ma'aarij
 ---
 
 ▶ [[69-Al-Haaqqa]] | [[71-Nooh]] ◀

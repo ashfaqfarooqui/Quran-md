@@ -5,6 +5,7 @@ aliases:
 Name: The Groups
 Revelation: Meccan
 Ayahs: 75
+tag:  Quran/Az-Zumar
 ---
 
 ▶ [[38-Saad]] | [[40-Ghafir]] ◀

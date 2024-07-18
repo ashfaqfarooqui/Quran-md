@@ -5,6 +5,7 @@ aliases:
 Name: The Palm Fibre
 Revelation: Meccan
 Ayahs: 5
+tag:  Quran/Al-Masad
 ---
 
 ▶ [[110-An-Nasr]] | [[112-Al-Ikhlaas]] ◀

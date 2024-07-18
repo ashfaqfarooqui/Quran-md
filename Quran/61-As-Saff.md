@@ -5,6 +5,7 @@ aliases:
 Name: The Ranks
 Revelation: Medinan
 Ayahs: 14
+tag:  Quran/As-Saff
 ---
 
 ▶ [[60-Al-Mumtahana]] | [[62-Al-Jumu'a]] ◀

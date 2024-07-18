@@ -5,6 +5,7 @@ aliases:
 Name: The Ant
 Revelation: Meccan
 Ayahs: 93
+tag:  Quran/An-Naml
 ---
 
 ▶ [[26-Ash-Shu'araa]] | [[28-Al-Qasas]] ◀

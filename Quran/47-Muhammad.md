@@ -5,6 +5,7 @@ aliases:
 Name: Muhammad
 Revelation: Medinan
 Ayahs: 38
+tag:  Quran/Muhammad
 ---
 
 ▶ [[46-Al-Ahqaf]] | [[48-Al-Fath]] ◀

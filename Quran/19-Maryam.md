@@ -5,6 +5,7 @@ aliases:
 Name: Mary
 Revelation: Meccan
 Ayahs: 98
+tag:  Quran/Maryam
 ---
 
 ▶ [[18-Al-Kahf]] | [[20-Taa-Haa]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Cloaked One
 Revelation: Meccan
 Ayahs: 56
+tag:  Quran/Al-Muddaththir
 ---
 
 ▶ [[73-Al-Muzzammil]] | [[75-Al-Qiyaama]] ◀

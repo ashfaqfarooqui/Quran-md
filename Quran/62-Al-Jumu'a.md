@@ -5,6 +5,7 @@ aliases:
 Name: Friday
 Revelation: Medinan
 Ayahs: 11
+tag:  Quran/Al-Jumu'a
 ---
 
 ▶ [[61-As-Saff]] | [[63-Al-Munaafiqoon]] ◀

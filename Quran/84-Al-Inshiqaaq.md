@@ -5,6 +5,7 @@ aliases:
 Name: The Splitting Open
 Revelation: Meccan
 Ayahs: 25
+tag:  Quran/Al-Inshiqaaq
 ---
 
 ▶ [[83-Al-Mutaffifin]] | [[85-Al-Burooj]] ◀

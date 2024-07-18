@@ -5,6 +5,7 @@ aliases:
 Name: The Table
 Revelation: Medinan
 Ayahs: 120
+tag:  Quran/Al-Maaida
 ---
 
 ▶ [[4-An-Nisaa]] | [[6-Al-An'aam]] ◀

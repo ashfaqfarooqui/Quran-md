@@ -5,6 +5,7 @@ aliases:
 Name: Mankind
 Revelation: Meccan
 Ayahs: 6
+tag:  Quran/An-Naas
 ---
 
 ▶ [[113-Al-Falaq]] | [[1-Al-Faatiha]] ◀

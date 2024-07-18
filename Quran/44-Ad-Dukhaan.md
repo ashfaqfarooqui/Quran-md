@@ -5,6 +5,7 @@ aliases:
 Name: The Smoke
 Revelation: Meccan
 Ayahs: 59
+tag:  Quran/Ad-Dukhaan
 ---
 
 ▶ [[43-Az-Zukhruf]] | [[45-Al-Jaathiya]] ◀

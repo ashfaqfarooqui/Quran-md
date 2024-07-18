@@ -5,6 +5,7 @@ aliases:
 Name: Divorce
 Revelation: Medinan
 Ayahs: 12
+tag:  Quran/At-Talaaq
 ---
 
 ▶ [[64-At-Taghaabun]] | [[66-At-Tahrim]] ◀

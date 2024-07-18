@@ -5,6 +5,7 @@ aliases:
 Name: The Bee
 Revelation: Meccan
 Ayahs: 128
+tag:  Quran/An-Nahl
 ---
 
 ▶ [[15-Al-Hijr]] | [[17-Al-Israa]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The letter Qaaf
 Revelation: Meccan
 Ayahs: 45
+tag:  Quran/Qaaf
 ---
 
 ▶ [[49-Al-Hujuraat]] | [[51-Adh-Dhaariyat]] ◀

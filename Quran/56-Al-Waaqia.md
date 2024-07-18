@@ -5,6 +5,7 @@ aliases:
 Name: The Inevitable
 Revelation: Meccan
 Ayahs: 96
+tag:  Quran/Al-Waaqia
 ---
 
 ▶ [[55-Ar-Rahmaan]] | [[57-Al-Hadid]] ◀

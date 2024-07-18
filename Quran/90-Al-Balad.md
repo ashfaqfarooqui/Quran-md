@@ -5,6 +5,7 @@ aliases:
 Name: The City
 Revelation: Meccan
 Ayahs: 20
+tag:  Quran/Al-Balad
 ---
 
 ▶ [[89-Al-Fajr]] | [[91-Ash-Shams]] ◀

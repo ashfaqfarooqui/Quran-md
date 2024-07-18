@@ -5,6 +5,7 @@ aliases:
 Name: The Cleaving
 Revelation: Meccan
 Ayahs: 19
+tag:  Quran/Al-Infitaar
 ---
 
 ▶ [[81-At-Takwir]] | [[83-Al-Mutaffifin]] ◀

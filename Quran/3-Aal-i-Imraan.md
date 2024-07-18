@@ -5,6 +5,7 @@ aliases:
 Name: The Family of Imraan
 Revelation: Medinan
 Ayahs: 200
+tag:  Quran/Aal-i-Imraan
 ---
 
 ▶ [[2-Al-Baqara]] | [[4-An-Nisaa]] ◀

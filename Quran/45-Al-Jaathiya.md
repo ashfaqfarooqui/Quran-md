@@ -5,6 +5,7 @@ aliases:
 Name: Crouching
 Revelation: Meccan
 Ayahs: 37
+tag:  Quran/Al-Jaathiya
 ---
 
 ▶ [[44-Ad-Dukhaan]] | [[46-Al-Ahqaf]] ◀

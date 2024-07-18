@@ -5,6 +5,7 @@ aliases:
 Name: The Morning Star
 Revelation: Meccan
 Ayahs: 17
+tag:  Quran/At-Taariq
 ---
 
 ▶ [[85-Al-Burooj]] | [[87-Al-A'laa]] ◀

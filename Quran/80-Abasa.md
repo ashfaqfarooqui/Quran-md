@@ -5,6 +5,7 @@ aliases:
 Name: He frowned
 Revelation: Meccan
 Ayahs: 42
+tag:  Quran/Abasa
 ---
 
 ▶ [[79-An-Naazi'aat]] | [[81-At-Takwir]] ◀

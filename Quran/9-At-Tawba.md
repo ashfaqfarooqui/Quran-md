@@ -5,6 +5,7 @@ aliases:
 Name: The Repentance
 Revelation: Medinan
 Ayahs: 129
+tag:  Quran/At-Tawba
 ---
 
 ▶ [[8-Al-Anfaal]] | [[10-Yunus]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Night Journey
 Revelation: Meccan
 Ayahs: 111
+tag:  Quran/Al-Israa
 ---
 
 ▶ [[16-An-Nahl]] | [[18-Al-Kahf]] ◀

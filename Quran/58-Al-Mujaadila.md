@@ -5,6 +5,7 @@ aliases:
 Name: The Pleading Woman
 Revelation: Medinan
 Ayahs: 22
+tag:  Quran/Al-Mujaadila
 ---
 
 ▶ [[57-Al-Hadid]] | [[59-Al-Hashr]] ◀

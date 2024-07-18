@@ -5,6 +5,7 @@ aliases:
 Name: The Star
 Revelation: Meccan
 Ayahs: 62
+tag:  Quran/An-Najm
 ---
 
 ▶ [[52-At-Tur]] | [[54-Al-Qamar]] ◀

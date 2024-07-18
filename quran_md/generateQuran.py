@@ -34,6 +34,7 @@ for i in range(0 , 114):
                     "Name: " +metadata[i]['englishNameTranslation']+ ENTER +
                     "Revelation: "+metadata[i]['revelationType'] + ENTER+
                     "Ayahs: "+str(metadata[i]['numberOfAyahs'])+ENTER+
+                    "tag: "+ " Quran/"+str(metadata[i]['englishName'])+ENTER+
                     "---" + ENTER  + ENTER )
     if(i == 113):
       next=0

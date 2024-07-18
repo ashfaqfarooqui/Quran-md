@@ -5,6 +5,7 @@ aliases:
 Name: The Believers
 Revelation: Meccan
 Ayahs: 118
+tag:  Quran/Al-Muminoon
 ---
 
 ▶ [[22-Al-Hajj]] | [[24-An-Noor]] ◀

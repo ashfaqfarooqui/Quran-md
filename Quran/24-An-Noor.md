@@ -5,6 +5,7 @@ aliases:
 Name: The Light
 Revelation: Medinan
 Ayahs: 64
+tag:  Quran/An-Noor
 ---
 
 ▶ [[23-Al-Muminoon]] | [[25-Al-Furqaan]] ◀

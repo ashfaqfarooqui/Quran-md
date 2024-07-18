@@ -5,6 +5,7 @@ aliases:
 Name: The Prostration
 Revelation: Meccan
 Ayahs: 30
+tag:  Quran/As-Sajda
 ---
 
 ▶ [[31-Luqman]] | [[33-Al-Ahzaab]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: Explained in detail
 Revelation: Meccan
 Ayahs: 54
+tag:  Quran/Fussilat
 ---
 
 ▶ [[40-Ghafir]] | [[42-Ash-Shura]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Earthquake
 Revelation: Medinan
 Ayahs: 8
+tag:  Quran/Az-Zalzala
 ---
 
 ▶ [[98-Al-Bayyina]] | [[100-Al-Aadiyaat]] ◀

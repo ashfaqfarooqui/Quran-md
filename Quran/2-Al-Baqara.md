@@ -5,6 +5,7 @@ aliases:
 Name: The Cow
 Revelation: Medinan
 Ayahs: 286
+tag:  Quran/Al-Baqara
 ---
 
 ▶ [[1-Al-Faatiha]] | [[3-Aal-i-Imraan]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Dunes
 Revelation: Meccan
 Ayahs: 35
+tag:  Quran/Al-Ahqaf
 ---
 
 ▶ [[45-Al-Jaathiya]] | [[47-Muhammad]] ◀

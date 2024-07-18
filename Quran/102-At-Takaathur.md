@@ -5,6 +5,7 @@ aliases:
 Name: Competition
 Revelation: Meccan
 Ayahs: 8
+tag:  Quran/At-Takaathur
 ---
 
 ▶ [[101-Al-Qaari'a]] | [[103-Al-Asr]] ◀

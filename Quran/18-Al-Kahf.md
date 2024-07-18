@@ -5,6 +5,7 @@ aliases:
 Name: The Cave
 Revelation: Meccan
 Ayahs: 110
+tag:  Quran/Al-Kahf
 ---
 
 ▶ [[17-Al-Israa]] | [[19-Maryam]] ◀

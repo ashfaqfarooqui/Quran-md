@@ -5,6 +5,7 @@ aliases:
 Name: Quraysh
 Revelation: Meccan
 Ayahs: 4
+tag:  Quran/Quraish
 ---
 
 ▶ [[105-Al-Fil]] | [[107-Al-Maa'un]] ◀

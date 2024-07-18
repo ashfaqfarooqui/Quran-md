@@ -5,6 +5,7 @@ aliases:
 Name: The Consolation
 Revelation: Meccan
 Ayahs: 8
+tag:  Quran/Ash-Sharh
 ---
 
 ▶ [[93-Ad-Dhuhaa]] | [[95-At-Tin]] ◀

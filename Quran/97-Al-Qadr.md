@@ -5,6 +5,7 @@ aliases:
 Name: The Power, Fate
 Revelation: Meccan
 Ayahs: 5
+tag:  Quran/Al-Qadr
 ---
 
 ▶ [[96-Al-Alaq]] | [[98-Al-Bayyina]] ◀

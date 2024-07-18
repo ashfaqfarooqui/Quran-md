@@ -5,6 +5,7 @@ aliases:
 Name: The Stories
 Revelation: Meccan
 Ayahs: 88
+tag:  Quran/Al-Qasas
 ---
 
 ▶ [[27-An-Naml]] | [[29-Al-Ankaboot]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Exile
 Revelation: Medinan
 Ayahs: 24
+tag:  Quran/Al-Hashr
 ---
 
 ▶ [[58-Al-Mujaadila]] | [[60-Al-Mumtahana]] ◀

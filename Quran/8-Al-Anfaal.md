@@ -5,6 +5,7 @@ aliases:
 Name: The Spoils of War
 Revelation: Medinan
 Ayahs: 75
+tag:  Quran/Al-Anfaal
 ---
 
 ▶ [[7-Al-A'raaf]] | [[9-At-Tawba]] ◀

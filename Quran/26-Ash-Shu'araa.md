@@ -5,6 +5,7 @@ aliases:
 Name: The Poets
 Revelation: Meccan
 Ayahs: 227
+tag:  Quran/Ash-Shu'araa
 ---
 
 ▶ [[25-Al-Furqaan]] | [[27-An-Naml]] ◀

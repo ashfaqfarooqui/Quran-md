@@ -5,6 +5,7 @@ aliases:
 Name: Jonas
 Revelation: Meccan
 Ayahs: 109
+tag:  Quran/Yunus
 ---
 
 ▶ [[9-At-Tawba]] | [[11-Hud]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: Consultation
 Revelation: Meccan
 Ayahs: 53
+tag:  Quran/Ash-Shura
 ---
 
 ▶ [[41-Fussilat]] | [[43-Az-Zukhruf]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Prophets
 Revelation: Meccan
 Ayahs: 112
+tag:  Quran/Al-Anbiyaa
 ---
 
 ▶ [[20-Taa-Haa]] | [[22-Al-Hajj]] ◀

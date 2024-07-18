@@ -5,6 +5,7 @@ aliases:
 Name: The Beneficent
 Revelation: Medinan
 Ayahs: 78
+tag:  Quran/Ar-Rahmaan
 ---
 
 ▶ [[54-Al-Qamar]] | [[56-Al-Waaqia]] ◀

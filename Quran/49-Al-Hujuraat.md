@@ -5,6 +5,7 @@ aliases:
 Name: The Inner Apartments
 Revelation: Medinan
 Ayahs: 18
+tag:  Quran/Al-Hujuraat
 ---
 
 ▶ [[48-Al-Fath]] | [[50-Qaaf]] ◀

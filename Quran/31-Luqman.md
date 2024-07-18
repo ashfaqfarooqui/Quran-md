@@ -5,6 +5,7 @@ aliases:
 Name: Luqman
 Revelation: Meccan
 Ayahs: 34
+tag:  Quran/Luqman
 ---
 
 ▶ [[30-Ar-Room]] | [[32-As-Sajda]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Pen
 Revelation: Meccan
 Ayahs: 52
+tag:  Quran/Al-Qalam
 ---
 
 ▶ [[67-Al-Mulk]] | [[69-Al-Haaqqa]] ◀

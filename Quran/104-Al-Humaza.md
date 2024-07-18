@@ -5,6 +5,7 @@ aliases:
 Name: The Traducer
 Revelation: Meccan
 Ayahs: 9
+tag:  Quran/Al-Humaza
 ---
 
 ▶ [[103-Al-Asr]] | [[105-Al-Fil]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Opening
 Revelation: Meccan
 Ayahs: 7
+tag:  Quran/Al-Faatiha
 ---
 
 ▶ [[114-An-Naas]] | [[2-Al-Baqara]] ◀

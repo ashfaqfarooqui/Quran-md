@@ -5,6 +5,7 @@ aliases:
 Name: The Evidence
 Revelation: Medinan
 Ayahs: 8
+tag:  Quran/Al-Bayyina
 ---
 
 ▶ [[97-Al-Qadr]] | [[99-Az-Zalzala]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Night
 Revelation: Meccan
 Ayahs: 21
+tag:  Quran/Al-Lail
 ---
 
 ▶ [[91-Ash-Shams]] | [[93-Ad-Dhuhaa]] ◀

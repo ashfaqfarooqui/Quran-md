@@ -5,6 +5,7 @@ aliases:
 Name: Man
 Revelation: Medinan
 Ayahs: 31
+tag:  Quran/Al-Insaan
 ---
 
 ▶ [[75-Al-Qiyaama]] | [[77-Al-Mursalaat]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Winnowing Winds
 Revelation: Meccan
 Ayahs: 60
+tag:  Quran/Adh-Dhaariyat
 ---
 
 ▶ [[50-Qaaf]] | [[52-At-Tur]] ◀

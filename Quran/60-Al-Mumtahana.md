@@ -5,6 +5,7 @@ aliases:
 Name: She that is to be examined
 Revelation: Medinan
 Ayahs: 13
+tag:  Quran/Al-Mumtahana
 ---
 
 ▶ [[59-Al-Hashr]] | [[61-As-Saff]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: Joseph
 Revelation: Meccan
 Ayahs: 111
+tag:  Quran/Yusuf
 ---
 
 ▶ [[11-Hud]] | [[13-Ar-Ra'd]] ◀

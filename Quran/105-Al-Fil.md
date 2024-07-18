@@ -5,6 +5,7 @@ aliases:
 Name: The Elephant
 Revelation: Meccan
 Ayahs: 5
+tag:  Quran/Al-Fil
 ---
 
 ▶ [[104-Al-Humaza]] | [[106-Quraish]] ◀

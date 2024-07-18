@@ -5,6 +5,7 @@ aliases:
 Name: The Sun
 Revelation: Meccan
 Ayahs: 15
+tag:  Quran/Ash-Shams
 ---
 
 ▶ [[90-Al-Balad]] | [[92-Al-Lail]] ◀

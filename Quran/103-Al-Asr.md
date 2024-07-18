@@ -5,6 +5,7 @@ aliases:
 Name: The Declining Day, Epoch
 Revelation: Meccan
 Ayahs: 3
+tag:  Quran/Al-Asr
 ---
 
 ▶ [[102-At-Takaathur]] | [[104-Al-Humaza]] ◀

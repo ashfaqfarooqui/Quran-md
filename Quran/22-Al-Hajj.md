@@ -5,6 +5,7 @@ aliases:
 Name: The Pilgrimage
 Revelation: Medinan
 Ayahs: 78
+tag:  Quran/Al-Hajj
 ---
 
 ▶ [[21-Al-Anbiyaa]] | [[23-Al-Muminoon]] ◀

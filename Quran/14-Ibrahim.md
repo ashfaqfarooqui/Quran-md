@@ -5,6 +5,7 @@ aliases:
 Name: Abraham
 Revelation: Meccan
 Ayahs: 52
+tag:  Quran/Ibrahim
 ---
 
 ▶ [[13-Ar-Ra'd]] | [[15-Al-Hijr]] ◀

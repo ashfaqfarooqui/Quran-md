@@ -5,6 +5,7 @@ aliases:
 Name: Ornaments of gold
 Revelation: Meccan
 Ayahs: 89
+tag:  Quran/Az-Zukhruf
 ---
 
 ▶ [[42-Ash-Shura]] | [[44-Ad-Dukhaan]] ◀

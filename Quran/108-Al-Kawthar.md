@@ -5,6 +5,7 @@ aliases:
 Name: Abundance
 Revelation: Meccan
 Ayahs: 3
+tag:  Quran/Al-Kawthar
 ---
 
 ▶ [[107-Al-Maa'un]] | [[109-Al-Kaafiroon]] ◀

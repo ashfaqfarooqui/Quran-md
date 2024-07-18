@@ -5,6 +5,7 @@ aliases:
 Name: The Spider
 Revelation: Meccan
 Ayahs: 69
+tag:  Quran/Al-Ankaboot
 ---
 
 ▶ [[28-Al-Qasas]] | [[30-Ar-Room]] ◀

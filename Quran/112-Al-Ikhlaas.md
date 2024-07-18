@@ -5,6 +5,7 @@ aliases:
 Name: Sincerity
 Revelation: Meccan
 Ayahs: 4
+tag:  Quran/Al-Ikhlaas
 ---
 
 ▶ [[111-Al-Masad]] | [[113-Al-Falaq]] ◀

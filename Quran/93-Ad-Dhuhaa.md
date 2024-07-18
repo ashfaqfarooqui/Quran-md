@@ -5,6 +5,7 @@ aliases:
 Name: The Morning Hours
 Revelation: Meccan
 Ayahs: 11
+tag:  Quran/Ad-Dhuhaa
 ---
 
 ▶ [[92-Al-Lail]] | [[94-Ash-Sharh]] ◀

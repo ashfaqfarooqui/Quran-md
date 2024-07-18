@@ -5,6 +5,7 @@ aliases:
 Name: Those who drag forth
 Revelation: Meccan
 Ayahs: 46
+tag:  Quran/An-Naazi'aat
 ---
 
 ▶ [[78-An-Naba]] | [[80-Abasa]] ◀

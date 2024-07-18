@@ -5,6 +5,7 @@ aliases:
 Name: The Constellations
 Revelation: Meccan
 Ayahs: 22
+tag:  Quran/Al-Burooj
 ---
 
 ▶ [[84-Al-Inshiqaaq]] | [[86-At-Taariq]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: Defrauding
 Revelation: Meccan
 Ayahs: 36
+tag:  Quran/Al-Mutaffifin
 ---
 
 ▶ [[82-Al-Infitaar]] | [[84-Al-Inshiqaaq]] ◀

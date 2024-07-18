@@ -5,6 +5,7 @@ aliases:
 Name: The letter Saad
 Revelation: Meccan
 Ayahs: 88
+tag:  Quran/Saad
 ---
 
 ▶ [[37-As-Saaffaat]] | [[39-Az-Zumar]] ◀

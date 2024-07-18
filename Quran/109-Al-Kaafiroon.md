@@ -5,6 +5,7 @@ aliases:
 Name: The Disbelievers
 Revelation: Meccan
 Ayahs: 6
+tag:  Quran/Al-Kaafiroon
 ---
 
 ▶ [[108-Al-Kawthar]] | [[110-An-Nasr]] ◀

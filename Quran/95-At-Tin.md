@@ -5,6 +5,7 @@ aliases:
 Name: The Fig
 Revelation: Meccan
 Ayahs: 8
+tag:  Quran/At-Tin
 ---
 
 ▶ [[94-Ash-Sharh]] | [[96-Al-Alaq]] ◀

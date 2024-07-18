@@ -5,6 +5,7 @@ aliases:
 Name: The Prohibition
 Revelation: Medinan
 Ayahs: 12
+tag:  Quran/At-Tahrim
 ---
 
 ▶ [[65-At-Talaaq]] | [[67-Al-Mulk]] ◀

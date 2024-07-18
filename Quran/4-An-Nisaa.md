@@ -5,6 +5,7 @@ aliases:
 Name: The Women
 Revelation: Medinan
 Ayahs: 176
+tag:  Quran/An-Nisaa
 ---
 
 ▶ [[3-Aal-i-Imraan]] | [[5-Al-Maaida]] ◀

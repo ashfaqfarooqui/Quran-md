@@ -5,6 +5,7 @@ aliases:
 Name: The Iron
 Revelation: Medinan
 Ayahs: 29
+tag:  Quran/Al-Hadid
 ---
 
 ▶ [[56-Al-Waaqia]] | [[58-Al-Mujaadila]] ◀

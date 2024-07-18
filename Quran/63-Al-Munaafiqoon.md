@@ -5,6 +5,7 @@ aliases:
 Name: The Hypocrites
 Revelation: Medinan
 Ayahs: 11
+tag:  Quran/Al-Munaafiqoon
 ---
 
 ▶ [[62-Al-Jumu'a]] | [[64-At-Taghaabun]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Rock
 Revelation: Meccan
 Ayahs: 99
+tag:  Quran/Al-Hijr
 ---
 
 ▶ [[14-Ibrahim]] | [[16-An-Nahl]] ◀

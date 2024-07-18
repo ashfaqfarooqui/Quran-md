@@ -5,6 +5,7 @@ aliases:
 Name: Sheba
 Revelation: Meccan
 Ayahs: 54
+tag:  Quran/Saba
 ---
 
 ▶ [[33-Al-Ahzaab]] | [[35-Faatir]] ◀

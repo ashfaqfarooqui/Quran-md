@@ -5,6 +5,7 @@ aliases:
 Name: The Victory
 Revelation: Medinan
 Ayahs: 29
+tag:  Quran/Al-Fath
 ---
 
 ▶ [[47-Muhammad]] | [[49-Al-Hujuraat]] ◀

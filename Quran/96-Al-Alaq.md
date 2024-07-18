@@ -5,6 +5,7 @@ aliases:
 Name: The Clot
 Revelation: Meccan
 Ayahs: 19
+tag:  Quran/Al-Alaq
 ---
 
 ▶ [[95-At-Tin]] | [[97-Al-Qadr]] ◀

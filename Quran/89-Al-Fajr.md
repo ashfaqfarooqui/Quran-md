@@ -5,6 +5,7 @@ aliases:
 Name: The Dawn
 Revelation: Meccan
 Ayahs: 30
+tag:  Quran/Al-Fajr
 ---
 
 ▶ [[88-Al-Ghaashiya]] | [[90-Al-Balad]] ◀

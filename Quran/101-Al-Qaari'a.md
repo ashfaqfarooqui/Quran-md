@@ -5,6 +5,7 @@ aliases:
 Name: The Calamity
 Revelation: Meccan
 Ayahs: 11
+tag:  Quran/Al-Qaari'a
 ---
 
 ▶ [[100-Al-Aadiyaat]] | [[102-At-Takaathur]] ◀

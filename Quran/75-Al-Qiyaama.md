@@ -5,6 +5,7 @@ aliases:
 Name: The Resurrection
 Revelation: Meccan
 Ayahs: 40
+tag:  Quran/Al-Qiyaama
 ---
 
 ▶ [[74-Al-Muddaththir]] | [[76-Al-Insaan]] ◀

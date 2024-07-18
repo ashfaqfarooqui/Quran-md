@@ -5,6 +5,7 @@ aliases:
 Name: The Chargers
 Revelation: Meccan
 Ayahs: 11
+tag:  Quran/Al-Aadiyaat
 ---
 
 ▶ [[99-Az-Zalzala]] | [[101-Al-Qaari'a]] ◀

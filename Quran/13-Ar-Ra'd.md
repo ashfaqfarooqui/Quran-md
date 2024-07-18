@@ -5,6 +5,7 @@ aliases:
 Name: The Thunder
 Revelation: Medinan
 Ayahs: 43
+tag:  Quran/Ar-Ra'd
 ---
 
 ▶ [[12-Yusuf]] | [[14-Ibrahim]] ◀

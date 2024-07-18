@@ -5,6 +5,7 @@ aliases:
 Name: The Overwhelming
 Revelation: Meccan
 Ayahs: 26
+tag:  Quran/Al-Ghaashiya
 ---
 
 ▶ [[87-Al-A'laa]] | [[89-Al-Fajr]] ◀

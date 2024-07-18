@@ -5,6 +5,7 @@ aliases:
 Name: Those drawn up in Ranks
 Revelation: Meccan
 Ayahs: 182
+tag:  Quran/As-Saaffaat
 ---
 
 ▶ [[36-Yaseen]] | [[38-Saad]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: Yaseen
 Revelation: Meccan
 Ayahs: 83
+tag:  Quran/Yaseen
 ---
 
 ▶ [[35-Faatir]] | [[37-As-Saaffaat]] ◀

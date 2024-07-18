@@ -5,6 +5,7 @@ aliases:
 Name: Almsgiving
 Revelation: Meccan
 Ayahs: 7
+tag:  Quran/Al-Maa'un
 ---
 
 ▶ [[106-Quraish]] | [[108-Al-Kawthar]] ◀

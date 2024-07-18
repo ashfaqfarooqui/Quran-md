@@ -5,6 +5,7 @@ aliases:
 Name: The Sovereignty
 Revelation: Meccan
 Ayahs: 30
+tag:  Quran/Al-Mulk
 ---
 
 ▶ [[66-At-Tahrim]] | [[68-Al-Qalam]] ◀

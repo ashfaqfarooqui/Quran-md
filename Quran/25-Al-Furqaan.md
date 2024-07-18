@@ -5,6 +5,7 @@ aliases:
 Name: The Criterion
 Revelation: Meccan
 Ayahs: 77
+tag:  Quran/Al-Furqaan
 ---
 
 ▶ [[24-An-Noor]] | [[26-Ash-Shu'araa]] ◀

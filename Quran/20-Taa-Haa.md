@@ -5,6 +5,7 @@ aliases:
 Name: Taa-Haa
 Revelation: Meccan
 Ayahs: 135
+tag:  Quran/Taa-Haa
 ---
 
 ▶ [[19-Maryam]] | [[21-Al-Anbiyaa]] ◀

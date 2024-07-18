@@ -5,6 +5,7 @@ aliases:
 Name: The Romans
 Revelation: Meccan
 Ayahs: 60
+tag:  Quran/Ar-Room
 ---
 
 ▶ [[29-Al-Ankaboot]] | [[31-Luqman]] ◀

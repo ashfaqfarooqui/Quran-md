@@ -5,6 +5,7 @@ aliases:
 Name: Mutual Disillusion
 Revelation: Medinan
 Ayahs: 18
+tag:  Quran/At-Taghaabun
 ---
 
 ▶ [[63-Al-Munaafiqoon]] | [[65-At-Talaaq]] ◀

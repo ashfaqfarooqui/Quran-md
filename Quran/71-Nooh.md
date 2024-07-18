@@ -5,6 +5,7 @@ aliases:
 Name: Noah
 Revelation: Meccan
 Ayahs: 28
+tag:  Quran/Nooh
 ---
 
 ▶ [[70-Al-Ma'aarij]] | [[72-Al-Jinn]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Most High
 Revelation: Meccan
 Ayahs: 19
+tag:  Quran/Al-A'laa
 ---
 
 ▶ [[86-At-Taariq]] | [[88-Al-Ghaashiya]] ◀

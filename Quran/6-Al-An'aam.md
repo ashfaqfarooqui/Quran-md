@@ -5,6 +5,7 @@ aliases:
 Name: The Cattle
 Revelation: Meccan
 Ayahs: 165
+tag:  Quran/Al-An'aam
 ---
 
 ▶ [[5-Al-Maaida]] | [[7-Al-A'raaf]] ◀

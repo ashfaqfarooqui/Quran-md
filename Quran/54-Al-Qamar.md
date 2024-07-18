@@ -5,6 +5,7 @@ aliases:
 Name: The Moon
 Revelation: Meccan
 Ayahs: 55
+tag:  Quran/Al-Qamar
 ---
 
 ▶ [[53-An-Najm]] | [[55-Ar-Rahmaan]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Jinn
 Revelation: Meccan
 Ayahs: 28
+tag:  Quran/Al-Jinn
 ---
 
 ▶ [[71-Nooh]] | [[73-Al-Muzzammil]] ◀

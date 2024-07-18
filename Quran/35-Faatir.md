@@ -5,6 +5,7 @@ aliases:
 Name: The Originator
 Revelation: Meccan
 Ayahs: 45
+tag:  Quran/Faatir
 ---
 
 ▶ [[34-Saba]] | [[36-Yaseen]] ◀

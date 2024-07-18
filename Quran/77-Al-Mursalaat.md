@@ -5,6 +5,7 @@ aliases:
 Name: The Emissaries
 Revelation: Meccan
 Ayahs: 50
+tag:  Quran/Al-Mursalaat
 ---
 
 ▶ [[76-Al-Insaan]] | [[78-An-Naba]] ◀

@@ -5,6 +5,7 @@ aliases:
 Name: The Overthrowing
 Revelation: Meccan
 Ayahs: 29
+tag:  Quran/At-Takwir
 ---
 
 ▶ [[80-Abasa]] | [[82-Al-Infitaar]] ◀
